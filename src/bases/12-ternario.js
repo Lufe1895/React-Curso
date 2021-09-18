@@ -1,4 +1,4 @@
-const actuvo = true;
+const activo = true;
 
 const mensaje = activo && 'Activo';
 
